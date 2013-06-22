@@ -1,0 +1,20 @@
+Renders Images using div or table tags in HTML
+
+usage:
+    script.py file.png > output.html
+    script.py file.jpg > output.html
+    
+table.py uses tables and style= tags
+div.py uses divs and style= tags
+csstable.py uses tables and css styles
+cssdiv.py uses divs and css styles
+
+if you run all of the scripts and generate four .html files, you can open them at the same time with:
+    osx: open *.html
+    nix: gnome-open *.html
+    
+I recommend using Google Chrome, as it will make each tab its own process:
+    osx: open -a "Google Chrome" *.html
+    nix: google-chrome *.html
+
+    
