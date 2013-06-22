@@ -1,8 +1,8 @@
 Renders Images using div or table tags in HTML
 
 usage:
-    script.py file.png > output.html
-    script.py file.jpg > output.html
+    python script.py file.png > output.html
+    python script.py file.jpg > output.html
     
 table.py uses tables and style= tags
 div.py uses divs and style= tags
